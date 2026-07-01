@@ -14,10 +14,10 @@ where things tend to go wrong.
 
 **Recent writing**
 <!-- BLOG-POST-LIST:START -->
-- [Why More Planning Won't Get You Unstuck](https://avishefi.com/blog/decision-framework/)
 - [The Dopamine Revolution](https://avishefi.com/blog/the-dopamine-revolution/)
 - [FOMO is a Wonderful Thing](https://avishefi.com/blog/fomo-is-a-wonderful-thing/)
 - [Start With the Monolith](https://avishefi.com/blog/start-with-the-monolith/)
+- [Why More Planning Won&#39;t Get You Unstuck](https://avishefi.com/blog/decision-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 [avishefi.com](https://avishefi.com) &middot; [X](https://x.com/shefiavi) &middot; [LinkedIn](https://linkedin.com/in/shefiavi)
